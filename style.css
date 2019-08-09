@@ -231,8 +231,8 @@ a:focus,a:hover{text-decoration:none}
 .posts-list h2{font-size:18px;font-size:1rem;line-height:30px;font-weight:600;margin-bottom:7px}
 .posts-list a{color:inherit}
 .posts-list > li{list-style:none;position:relative}
-.posts-list > li ~ li{padding-top:20px;margin-top:10px}
-.posts-list > li div{font-size:11px;text-transform:uppercase;letter-spacing:1px;color:#777}
+.posts-list > li ~ li{padding-top:20px;margin-top:15px}
+.posts-list > li div{font-size:0.9rem;/*text-transform:uppercase;*/letter-spacing:1px;color:#444; line-height: 26px;}
 .pullquote{font-size:18px;font-size:1.125rem;line-height:36px;color:#888;font-weight:300;position:relative;margin:45px 0 20px 0;display:block;border-top:1px solid #efefef;border-bottom:1px solid #efefef;padding:15px 0}
 @media screen and (min-width:720px){.pullquote{width:220px;float:right;margin:20px -160px 20px 20px}
 }
