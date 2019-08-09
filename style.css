@@ -1,11 +1,4 @@
-﻿/*	
-Theme Name: Variant
-Theme URI:http://www.xintheme.com
-Description:www.XinTheme.com 专为WordPress建站而生！官方网站：<a href="http://www.xintheme.com">XinTheme</a> 
-Version:1.0
-Author:大胡子
-Author URI: http://www.dahuzi.me/
-*/
+
 @charset "UTF-8";
 @font-face{font-family:"din";src:url('images/ui/din.otf') format("opentype");font-weight:normal}
 @font-face{font-family:'iconfont';src:url('images/ui/iconfont.eot');src:url('images/ui/iconfont.eot?#iefix') format('embedded-opentype'),url('images/ui/iconfont.woff') format('woff'),url('images/ui/iconfont.ttf') format('truetype'),url('images/ui/iconfont.svg#iconfont') format('svg')}
@@ -235,7 +228,7 @@ a:focus,a:hover{text-decoration:none}
 [id="infscr-loading"] div{display:none}
 .posts-list{margin:0;padding:0}
 .posts-list.posts-list--small{font-size:13px;font-size:0.8125rem;line-height:20px}
-.posts-list h2{font-size:18px;font-size:1rem;line-height:30px;font-weight:normal;margin-bottom:7px}
+.posts-list h2{font-size:18px;font-size:1rem;line-height:30px;font-weight:600;margin-bottom:7px}
 .posts-list a{color:inherit}
 .posts-list > li{list-style:none;position:relative}
 .posts-list > li ~ li{padding-top:20px;margin-top:10px}
@@ -502,7 +495,7 @@ h2.no-background span:after{left:100%}
 .pagination i { font-size: 40px;}
 
 /* type */
-.type i{position:absolute;border-radius:50%;font-size:25px;text-align:center;color:rgba(0,0,0,.5);width:30px;height:30px;line-height:30px;background:rgba(255,255,255,.5);}
+.type i{position:absolute;border-radius:50%;font-size:25px;text-align:center;color:#ffffff;width:30px;height:30px;line-height:30px;background:#ff5792;}
 .type i:hover{color:rgba(0,0,0,.3);}
 .mask{width:30px;height:30px;background:rgba(240,240,240,1);background-size:cover;background-position:center;position:relative;float:left;border-radius:50%;margin:0 10px 0 0}
 
